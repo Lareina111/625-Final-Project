@@ -3,16 +3,16 @@
 This repository contains the code and resources for a predictive analysis project aimed at identifying high-risk heart disease patients. The project utilizes machine learning techniques to analyze clinical indicators and predict the likelihood of heart disease.
 
 ## Authors & Contribution
-- Rong Ji
-- Zeyue Zhang
-- Chenxi Zhu
-- Chuyi Yan
+- Rong Ji: Focused on data preprocess, data analysis, model development, and diagnostic processes. Contributed to literature collection, and conducted a thorough review of the report.
+- Zeyue Zhang: Authored to writing the results and conclusion sections, assisted in data visualization, participated in literature collection, and conducted a thorough review of the report.
+- Chenxi Zhu: Responsible for gathering literature, writing the methods sections, and conducted a thorough review of the report.
+- Chuyi Yan: Engaged in literature collection, wrote the introduction and data section, contributed to data visualization, and conducted a thorough review of the report.
 
 ## Project Overview
 Heart disease remains a leading cause of global mortality, accounting for approximately 32% of worldwide deaths. Early detection and prevention are critical for managing cardiovascular health. This project leverages machine learning to analyze clinical indicators and build predictive models that aid in identifying high-risk individuals.
 
 ## Data
-The dataset is sourced from Kaggle's Sudden Cardiac Arrest dataset(https://www.kaggle.com/datasets/mexwell/heart-disease-dataset?select=heart_statlog_cleveland_hungary_final.csv), with the following features:
+The dataset is sourced from Kaggle's Sudden Cardiac Arrest dataset (https://www.kaggle.com/datasets/mexwell/heart-disease-dataset?select=heart_statlog_cleveland_hungary_final.csv), with the following features:
 - **Age**: Participant's age in years.
 - **Sex**: Gender (1 = male, 0 = female).
 - **Chest Pain Type**: Categories of chest pain.
