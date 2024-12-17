@@ -67,9 +67,3 @@ Machine learning models, especially ensemble methods like XGBoost and Random For
 - `src/`: Python scripts for data processing and model training.
 - `results/`: Model performance metrics and visualizations.
 - `README.md`: Project documentation.
-
-## How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-repo-name.git
-   cd your-repo-name
