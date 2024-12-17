@@ -2,7 +2,7 @@
 
 This repository contains the code and resources for a predictive analysis project aimed at identifying high-risk heart disease patients. The project utilizes machine learning techniques to analyze clinical indicators and predict the likelihood of heart disease.
 
-## Authors
+## Authors & Contribution
 - Rong Ji
 - Zeyue Zhang
 - Chenxi Zhu
@@ -62,7 +62,7 @@ Evaluation metrics:
 Machine learning models, especially ensemble methods like XGBoost and Random Forest, demonstrated excellent potential for predicting heart disease. Future work includes addressing missing data biases, enhancing feature availability, and optimizing models for real-time clinical use.
 
 ## Repository Contents
-- `data/`: Dataset files.
+- `data/`: Kaggle: https://www.kaggle.com/datasets/mexwell/heart-disease-dataset?select=heart_statlog_cleveland_hungary_final.csv.
 - `notebooks/`: Jupyter notebooks with preprocessing, modeling, and evaluation.
 - `src/`: Python scripts for data processing and model training.
 - `results/`: Model performance metrics and visualizations.
