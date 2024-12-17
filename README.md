@@ -12,7 +12,7 @@ This repository contains the code and resources for a predictive analysis projec
 Heart disease remains a leading cause of global mortality, accounting for approximately 32% of worldwide deaths. Early detection and prevention are critical for managing cardiovascular health. This project leverages machine learning to analyze clinical indicators and build predictive models that aid in identifying high-risk individuals.
 
 ## Data
-The dataset is sourced from Kaggle's Sudden Cardiac Arrest dataset and includes medical records of 1,190 patients, with the following features:
+The dataset is sourced from Kaggle's Sudden Cardiac Arrest dataset(https://www.kaggle.com/datasets/mexwell/heart-disease-dataset?select=heart_statlog_cleveland_hungary_final.csv), with the following features:
 - **Age**: Participant's age in years.
 - **Sex**: Gender (1 = male, 0 = female).
 - **Chest Pain Type**: Categories of chest pain.
@@ -61,9 +61,4 @@ Evaluation metrics:
 ## Conclusion
 Machine learning models, especially ensemble methods like XGBoost and Random Forest, demonstrated excellent potential for predicting heart disease. Future work includes addressing missing data biases, enhancing feature availability, and optimizing models for real-time clinical use.
 
-## Repository Contents
-- `data/`: Kaggle: https://www.kaggle.com/datasets/mexwell/heart-disease-dataset?select=heart_statlog_cleveland_hungary_final.csv.
-- `notebooks/`: Jupyter notebooks with preprocessing, modeling, and evaluation.
-- `src/`: Python scripts for data processing and model training.
-- `results/`: Model performance metrics and visualizations.
-- `README.md`: Project documentation.
+
